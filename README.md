@@ -1,6 +1,6 @@
 ﻿# Microservices Architecture With Laravel
  
- ## Stored Locally as its big size :sweat_smile: 
+ ## Uploaded zipped as its big size :sweat_smile:
  
  ### Description
 Applying Microservices architecture using Laravel
