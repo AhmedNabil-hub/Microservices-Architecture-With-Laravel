@@ -15,4 +15,4 @@ Applying Microservices architecture using Laravel
 - Database for each service
 
 ### Tuts
-- [Scalable Script YT Channel](https://www.youtube.com/playlist?list=PLlameCF3cMEvU6Z_I2miuH7s5IJA_Kagp)
+- [Scalable Scripts YT Channel](https://www.youtube.com/playlist?list=PLlameCF3cMEvU6Z_I2miuH7s5IJA_Kagp)
