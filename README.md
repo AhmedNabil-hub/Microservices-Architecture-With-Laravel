@@ -6,9 +6,9 @@
 Applying Microservices architecture using Laravel
 
 ### Features
-- Backend: Laravel
-- Docker
-- Event Driven with RabbitMQ
+- Backend: **Laravel**
+- **Docker**
+- Event Driven with **RabbitMQ**
 - Two Services:
   - Admin Service
   - Main Service
